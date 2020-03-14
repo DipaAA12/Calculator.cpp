@@ -1,0 +1,9 @@
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\dipacalculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\dipacalculator\calculator\obj\Debug\calculator.exe
+C:\Users\Sahabat Sg\Documents\tugas pemrograman\dipacalculator\calculator\obj\Debug\calculator.pdb
